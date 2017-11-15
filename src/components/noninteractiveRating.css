@@ -1,0 +1,16 @@
+.container{
+    margin:20px;
+}
+
+.long-content{
+    width: 257px;
+    border: 1px solid #afafaf;
+    padding: 23px 20px;
+    border-radius: 5px;
+}
+
+.small-product-star{
+    color:#E3E6E9;
+    font-size: 21px;
+    margin-right: 3px;
+}
